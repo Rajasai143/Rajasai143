@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **Rajasai143/Rajasai143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋  
+
+I’m **Rajasai Durgam**, a B.Tech **AI & ML** student passionate about building practical tech solutions.  
+I enjoy working on **Python**, **Machine Learning**, **problem-solving**, and **full-stack fundamentals**.  
+
+🌱 Currently exploring real-world applications of AI  
+💬 Interested in learning, collaborating, and growing as a developer  
+🚀 Always curious about how technology can solve everyday problems  
